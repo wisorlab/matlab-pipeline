@@ -3,11 +3,11 @@ Matlab Pipeline
 
 
 This module contains nothing more than symbolic links to the other three major modules:
-  - Data-Stream-Processing
-  - Epoch-Based-Processing
-  - Matlab
+  - Data-Stream-Processing - for working with whole data trains
+  - Epoch-Based-Processing - for analyzing segments of data trains
+  - Matlab - for general matlab workspace utilities and functions
 
-The purpose of this repository is to make it easier to download, modify and update the Matlab pipeline holistically.
+The purpose of this repository is to make it easier to download, modify and update the Matlab pipeline in a more holistic manner, while still maintaining the module's independence.
 
 ## Usage
 
