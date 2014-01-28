@@ -22,7 +22,7 @@ GitHub also supports a command line syntax. Most general use cases are described
   - [Github Tutorial](http://hub.github.com/)
   - [Github Cheatsheet](http://cheat.errtheblog.com/s/git)
 
-########Basic Commands
+######Basic Commands
 
 To download the entirety of this repository simply type
 
