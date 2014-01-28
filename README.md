@@ -39,7 +39,7 @@ GitHub also supports a command line syntax. Most general use cases are described
   git push origin master
   ```
 
-  - To add a new file to the repository, type the following, then repeat the steps above under 'making changes to a file'
+  - To add a new file to the repository, type the following, then repeat the steps above under 'making changes to a file' :
   
   ```
   git add filename
@@ -50,7 +50,7 @@ GitHub also supports a command line syntax. Most general use cases are described
   ```
   git add *.m
   ```
-  or
+  or finally :
   
   ```
   git add --all
