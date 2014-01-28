@@ -1,0 +1,9 @@
+[submodule "Data-Stream-Processing"]
+	path = Data-Stream-Processing
+	url = https://github.com/wisorlab/Data-Stream-Processing
+[submodule "Epoch-Based-Processing"]
+	path = Epoch-Based-Processing
+	url = https://github.com/wisorlab/Epoch-Based-Processing
+[submodule "Matlab"]
+	path = Matlab
+	url = https://github.com/wisorlab/Matlab
