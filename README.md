@@ -7,10 +7,26 @@ This module contains nothing more than symbolic links to the other three major m
   - Epoch-Based-Processing
   - Matlab
 
-The purpose of this repository is to 
+The purpose of this repository is to make it easier to download, modify and update the Matlab pipeline holistically.
 
-to download this repository simply use
+### Usage
 
-<code>
+To download the entirety of this repository simply type
+
+'''
 git clone https://github.com/wisorlab/matlab-pipeline
-</code>
+'''
+
+
+To make changes to a file in this repository, simply save changes to the file, and then type:
+
+'''
+git commit -m 'message about what you changed'
+
+
+To update a local version of this repository with any changes made to the files on the server, type:
+
+'''
+git pull
+
+
