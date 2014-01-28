@@ -25,40 +25,40 @@ GitHub also supports a command line syntax. Most general use cases are described
 
 ######Basic Commands
 
-To download the entirety of this repository simply type
+  - To download the entirety of this repository simply type
+  
+  ```
+  git clone https://github.com/wisorlab/matlab-pipeline
+  ```
+  
 
-```
-git clone https://github.com/wisorlab/matlab-pipeline
-```
+  - To make changes to a file in this repository, simply save changes to the file, and then type:
+  
+  ```
+  git commit -m 'message about what you changed'
+  git push origin master
+  ```
 
+  - To add a new file to the repository, type the following, then repeat the steps above under 'making changes to a file'
+  
+  ```
+  git add filename
+  ```
+  
+  or to add multiple files using wildcard (*) syntax :
+  
+  ```
+  git add *.m
+  ```
+  or
+  
+  ```
+  git add --all
+  ```
 
-To make changes to a file in this repository, simply save changes to the file, and then type:
-
-```
-git commit -m 'message about what you changed'
-git push origin master
-```
-
-To add a new file to the repository, type the following, then repeat the steps above under 'making changes to a file'
-
-```
-git add filename
-```
-
-or to add multiple files using wildcard (*) syntax :
-
-```
-git add *.m
-```
-or
-
-```
-git add --all
-```
-
-To update a local version of this repository with any changes made to the files on the server, type:
-
-```
-git pull
-```
+  - To update a local version of this repository with any changes made to the files on the server, type:
+  
+  ```
+  git pull
+  ```
 
