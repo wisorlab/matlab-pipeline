@@ -18,9 +18,11 @@ For most users in the lab, access to github should be mainly done through the 'G
 
 GitHub also supports a command line syntax. Most general use cases are described down below, with more specific information at the following links.
 
-[How the Heck Do I Use Github](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
-[Github Tutorial](http://hub.github.com/)
-[Github Cheatsheet](http://cheat.errtheblog.com/s/git)
+  - [How the Heck Do I Use Github](http://lifehacker.com/5983680/how-the-heck-do-i-use-github)
+  - [Github Tutorial](http://hub.github.com/)
+  - [Github Cheatsheet](http://cheat.errtheblog.com/s/git)
+
+########Basic Commands
 
 To download the entirety of this repository simply type
 
