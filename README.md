@@ -8,7 +8,7 @@ This module contains nothing more than symbolic links to the other three major m
   - <b>Epoch-Based-Processing</b> - for analyzing segments of data trains
   - <b>Matlab</b> - for general matlab workspace utilities and functions
 
-The purpose of this repository is to make it easier to download, modify and update the Matlab pipeline in a more holistic manner, while still maintaining the module's independence.
+The purpose of this repository is to make it easier to download, modify and update the Matlab pipeline in a more holistic manner, while still maintaining the modules' independence.
 
 ## Usage
 
