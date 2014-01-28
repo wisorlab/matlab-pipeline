@@ -39,6 +39,23 @@ git commit -m 'message about what you changed'
 git push origin master
 ```
 
+To add a new file to the repository, type the following, then repeat the steps above under 'making changes to a file'
+
+```
+git add filename
+```
+
+or to add multiple files using wildcard (*) syntax :
+
+```
+git add *.m
+```
+or
+
+```
+git add --all
+```
+
 To update a local version of this repository with any changes made to the files on the server, type:
 
 ```
