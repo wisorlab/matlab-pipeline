@@ -1,6 +1,7 @@
 Matlab Pipeline
 ===============
 
+## Description
 
 This module contains nothing more than symbolic links to the other three major modules:
   - <b>Data-Stream-Processing</b> - for working with whole data trains
