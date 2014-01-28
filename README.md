@@ -45,7 +45,7 @@ GitHub also supports a command line syntax. Most general use cases are described
   git add filename
   ```
   
-  or to add multiple files using wildcard (*) syntax :
+  or to add multiple files using wildcard (*) syntax, type something like :
   
   ```
   git add *.m
